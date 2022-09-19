@@ -21,10 +21,45 @@ const leftItems = [
         to: '/',
     },
     {
-        label:'about',
+        label:'About',
         icon:'pi pi-fw pi-users',
         to:'/about',
     }, 
+    {
+        label:'Vue Data',
+        icon:'pi pi-fw pi-database',
+        to:'/learnVueData',
+    },
+    {
+        label:'Vue Methods',
+        icon:'pi pi-fw pi-server',
+        to:'/learnVueMethods',
+    },
+    {
+        label:'V-on',
+        icon:'pi pi-fw pi-arrows-h',
+        to:'/learn_v-on',
+    },
+    {
+        label:'V-bind',
+        icon:'pi pi-fw pi-arrow-down',
+        to:'/learn_v-bind',
+    },
+    {
+        label:'V-if & V-show',
+        icon:'pi pi-fw pi-arrow-up',
+        to:'/learn_v-if&v-show',
+    },
+    {
+        label:'V-for',
+        icon:'pi pi-fw pi-arrow-left',
+        to:'/learn_v-for',
+    },
+    {
+        label:'V-model',
+        icon:'pi pi-fw pi-arrow-right',
+        to:'/learn_v-model',
+    },
 ]
 const RightItems = [
     {
